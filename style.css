@@ -1,0 +1,68 @@
+.a
+{
+background: rgb(60, 177, 231);
+border-radius: 15px;
+color: black;
+text-align: center;
+padding: 30px 18px;
+}
+nav
+{
+    display:flex;gap:8px;margin-top:14px;flex-wrap:wrap
+}
+nav a
+    {
+      color:rgba(248, 248, 248, 0.966);
+      text-decoration:none;
+      background:rgba(255,255,255,0.08);
+      padding:8px 12px;
+      border-radius:8px;
+      font-weight:600;
+      font-size:13px;
+    }
+.b
+{
+background: rgb(228, 235, 240);
+border-radius: 15px;
+color: black;
+padding: 30px 18px;
+}
+.c
+{
+  background: rgb(188, 209, 223);
+border-radius: 8px;
+color: black;
+padding: 8px 12px;
+margin-top: 10px;
+width: 45%;
+height: 45%;
+font: 50%;
+}
+.e
+{
+  background: rgb(204, 210, 214);
+border-radius: 8px;
+color: black;
+padding: 8px 12px;
+margin-top: 10px;
+}
+
+.g
+{
+      color:rgba(248, 248, 248, 0.966);
+      background: rgb(236, 233, 233);
+      padding:8px 12px;
+      border-radius:8px;
+      font-weight:600;
+      font-size:13px;
+    }
+
+.l
+{
+ background: rgb(204, 210, 214);
+border-radius: 8px;
+color: black;
+padding: 8px 12px;
+margin-top: 10px;
+}
+
